@@ -1,0 +1,23 @@
+{
+  "name": "webapp-cv",
+  "version": "1.0.0",
+  "description": "webapp-cv",
+  "main": "app.js",
+  "scripts": {
+	  "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Baltazar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://jsebaltazar@bitbucket.org/jsebaltazar/webapp-cv.git"
+  },
+  "homepage": "https://bitbucket.org/jsebaltazar/webapp-cv#readme"
+}
