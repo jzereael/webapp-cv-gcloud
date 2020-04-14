@@ -4,13 +4,17 @@
   "description": "webapp-cv",
   "main": "app.js",
   "scripts": {
-	  "start": "node app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jesse Baltazar",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
     "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.3",
     "request": "^2.88.0",
     "start": "^5.1.0"
   },
